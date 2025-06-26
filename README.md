@@ -24,8 +24,8 @@
 
 📫 Let's connect!
  
-. [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/harsh-1202-jaiswal/)
-• [Leetcode](https://your-portfolio-link.com](https://leetcode.com/u/Hars_1202/)
+* [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/harsh-1202-jaiswal/)
+* [Leetcode](https://your-portfolio-link.com](https://leetcode.com/u/Hars_1202/)
 
 ---
 
