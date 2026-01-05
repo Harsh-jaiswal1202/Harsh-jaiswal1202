@@ -24,8 +24,13 @@
 
 📫 Let's connect!
  
-* [LinkedIn](https://www.linkedin.com/in/harsh-1202-jaiswal/)
-* [Leetcode](https://leetcode.com/u/Hars_1202/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/harshjaiswal788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshjaiswal788" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-1202-jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-1202-jaiswal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/udayjaiswal788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/udayjaiswal788" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/hars_1202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/hars_1202/" height="30" width="40" /></a>
+</p>
 
 ---
 
